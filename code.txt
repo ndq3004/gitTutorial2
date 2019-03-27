@@ -1,7 +1,7 @@
 #include<stdlib.h>
 
 kdsfbjdf
-#include<iostream>
+#iclude<iostream>
 #include<string.h>
 int main()
 {
